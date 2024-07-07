@@ -6,6 +6,7 @@ export const ADD_TODO = gql`
             id
             title
             completed
+            tags
         }
     }
 `;
